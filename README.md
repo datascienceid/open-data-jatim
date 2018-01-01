@@ -8,7 +8,7 @@ Untuk memulai silahkan clone repositori ini.
 git clone https://github.com/datascienceid/open-data-jatim
 ```
 Repositori ini berisi data dan analisis dari beberapa sektor yang ada di 
-Jawa Timur. Panduan menggunakan [Git]('https://github.com/datascienceid/README')
+Jawa Timur. Panduan menggunakan [Git](https://github.com/datascienceid/README)
 
 ## Data
 ### Website
