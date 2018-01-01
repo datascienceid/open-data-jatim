@@ -8,11 +8,11 @@ Untuk memulai silahkan clone repositori ini.
 git clone https://github.com/datascienceid/open-data-jatim
 ```
 Repositori ini berisi data dan analisis dari beberapa sektor yang ada di 
-Jawa Timur. 
+Jawa Timur. Panduan menggunakan [Git]('https://github.com/datascienceid/README')
 
 ## Data
 ### Website
-- [Data Tilang Kejari Surabaya](http://www.kejari-surabaya.go.id/index.php/info-perkara/info-tilang) (Website dalam keadaan diretas. Terakhir 31 Desember 2017)
+- [Data Tilang Kejari Surabaya](http://www.kejari-surabaya.go.id/index.php/info-perkara/info-tilang) 
 - [Putusan Mahkamah Agung untuk Lingukungan Surabaya](https://putusan.mahkamahagung.go.id/pengadilan/pn-surabaya/)
 - [Ketersediaan dan Harga Bahan Pokok Jawa Timur](http://siskaperbapo.com/home)
 - [Pemprov Jatim](http://www.jatimprov.go.id)
